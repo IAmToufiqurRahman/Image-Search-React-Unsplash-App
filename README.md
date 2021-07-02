@@ -7,3 +7,5 @@ Then we have the ImageList component, where we rendered the images using the map
 Then in the ImageCard component, we used the Ref system of React for DOM access. Anytime we want to interact with the DOM we have to create Ref inside the constructor and then we will wire it up with some individual component by passing it as a property in the ref attribute. Thus we can handle the actual DOM node. 
 
 Finally, we used Grid CSS system to show the search results. 
+
+![ScreenShot](indow.png)
